@@ -2,6 +2,8 @@
 # Write-Up: Steel Mountain (TryHackMe) - Aprendizados, Falhas e Evolução Técnica
 Objetivo: Documentar minha jornada prática na máquina Steel Mountain, focando não apenas nos acertos, mas principalmente nos obstáculos técnicos que enfrentei, como meu raciocínio foi moldado durante o processo e como essa experiência de ataque fundamenta minha visão para atuar em SOC.
 
+*O objetivo do laboratório é simular a cadeia completa de um ataque cibernético (Cyber Kill Chain) contra um ambiente Windows real, focado na invasão e escalada de privilégios em um ambiente Windows totalmente controlado*
+
 # 1- Introdução e Contexto
 Este write-up é um reflexo do meu processo de aprendizado prático. Mais do que um guia passo a passo, é um registro de como abordei o problema, onde meu conhecimento teórico esbarrou na prática e como resolvi (ou entendi) os bloqueios. O objetivo final foi mapear a cadeia de ataque para entender como essas ações se traduzem em alertas de monitoramento.
 
